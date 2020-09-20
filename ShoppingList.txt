@@ -6,3 +6,5 @@ Bananas
 Tomatoes
 Onions
 Cereal
+Cookies
+Chips
